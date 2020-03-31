@@ -1,6 +1,6 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-03-27.
-authors:
+title: COVID-19 plitimo genominė analizė. Padėties ataskaita 2020-03-27.
+Autoriai:
   - Sidney M. Bell
   - Nicola Müller
   - Emma Hodcroft
@@ -19,7 +19,7 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: Sofija Semeniuk
+Išvertė: Sofija Semeniuk
 translatorLinks: https://twitter.com/SofijaSemeniuk
 date: "2020 March 27"
 dataset: "https://nextstrain.org/ncov/2020-03-27?d=tree,map"
