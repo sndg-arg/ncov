@@ -19,7 +19,7 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-Išvertė: Sofija Semeniuk
+translator: Sofija Semeniuk
 translatorLinks: https://twitter.com/SofijaSemeniuk
 date: "2020 March 27"
 dataset: "https://nextstrain.org/ncov/2020-03-27?d=tree,map"
