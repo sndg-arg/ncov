@@ -36,14 +36,14 @@ abstract: "Šioje ataskaitoje naudojami viešai pateikti genominiai duomenys ski
 
 * [Esminiai šaltiniai](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=2).     
 * [Informacija apie duomenis](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=3).  
-* [Updates for Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=4).  
-* [Updates for North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=7).  
-* [Updates for Central & South America](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=11).  
-* [Updates for Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=13).  
-* [Updates for Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=15).  
-* [Updates for Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=17).  
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=19).  
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=20).  
+* [Naujienos Europoje](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=4).  
+* [Naujienos Šiaurės Amerikoje](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=7).  
+* [Naujienos Centrinėje ir Pietų Amerikoje](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=11).  
+* [Naujienos Azijoje](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=13).  
+* [Naujienos Afrikoje](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=15).  
+* [Naujienos Okeanijoje](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=17).  
+* [Ką jūs galite padaryti?](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=19).  
+* [Padėka](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=20).  
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 # Executive summary
