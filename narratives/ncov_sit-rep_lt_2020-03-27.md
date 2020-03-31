@@ -23,7 +23,7 @@ translator: Sofija Semeniuk
 translatorLinks: https://twitter.com/SofijaSemeniuk
 date: "2020 m. kovo 27 d."
 dataset: "https://nextstrain.org/ncov/2020-03-27?d=tree,map"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "Šioje ataskaitoje naudojami viešai pateikti genominiai duomenys skirti COVID-19 plitimui stebėti. Ataskaitos yra atnaujinamos kas savaitę."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated. Please add your name under translators and a link to your professional webpage (can be twitter) under translatorLinks. -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -32,10 +32,10 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-03-27?d=tree,map&p=grid)
+# [Turinys](https://nextstrain.org/ncov/2020-03-27?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=3).  
+* [Esminiai šaltiniai](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=2).     
+* [Informacija apie duomenis](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=3).  
 * [Updates for Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=4).  
 * [Updates for North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=7).  
 * [Updates for Central & South America](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=11).  
