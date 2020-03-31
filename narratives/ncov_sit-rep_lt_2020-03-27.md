@@ -1,6 +1,6 @@
 ---
 title: COVID-19 plitimo genominė analizė. Padėties ataskaita 2020-03-27.
-Authors:
+Author:
   - Sidney M. Bell
   - Nicola Müller
   - Emma Hodcroft
