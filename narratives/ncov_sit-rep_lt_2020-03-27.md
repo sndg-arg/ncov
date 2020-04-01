@@ -314,8 +314,8 @@ The virus has likely been circulating in this area since at least the end of Feb
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-## Takeaways
-####  In the next few weeks, we will be watching the European outbreak for signs that the new mitigation measures have stemmed cross-border transmission.
+## Išvados
+####  Ateinančių savaičių bėgyje stebėsime ar prIn the next few weeks, we will be watching the European outbreak for signs that the new mitigation measures have stemmed cross-border transmission.
 <br><br>
 #### We will be monitoring the situation in South America for signs of local transmission as more sequences become available.
 <br><br>
