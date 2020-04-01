@@ -34,7 +34,7 @@ abstract: "Šioje ataskaitoje naudojami viešai pateikti genominiai duomenys ski
 <!-- This is left-side text 1-->
 # [Turinys](https://nextstrain.org/ncov/2020-03-27?d=tree,map&p=grid)
 
-* [Esminiai šaltiniai](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=2).     
+* [Šaltiniai susipažinti su kontekstu](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=2).     
 * [Informacija apie duomenis](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=3).  
 * [Naujienos Europoje](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=4).  
 * [Naujienos Šiaurės Amerikoje](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=7).  
