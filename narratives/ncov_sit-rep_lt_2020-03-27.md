@@ -51,7 +51,7 @@ abstract: "Šioje ataskaitoje naudojami viešai pateikti genominiai duomenys ski
 Išanalizavome 1495 viešai pateiktų COVID-19 genomus. Palyginus šiuos virusinius genomus mes galime apibrėžti COVID-19 plitimą tiek viso pasaulio mastu, tiek vietiškai. Šios savaitės naujienose pranešame:
 
 **Europa**  
-* Toliau stebima mėginių įvairovė Europoje, kas leidžia daryti prielaidą, jog per pastarąsias 3-5 savaites virusas kirto valstybių sienas. Epidemijos švelninimo priemonėms įsigaliojus, ateityje galime tikėtis daugiau atvejų susitelkimų šalių viduje.
+* Toliau stebima mėginių įvairovė Europoje, kas leidžia daryti prielaidą, jog per pastarąsias 3-5 savaites virusas plito iš vienos valstybės į kitą. Epidemijos švelninimo priemonėms įsigaliojus, ateityje galime tikėtis daugiau atvejų susitelkimų šalių viduje.
 
 **Šiaurės Amerika**   
 * JAV užkrato plitimo modelis yra sudėtingas: mėginiai, surinkti iš priešingų šalies kraštų, rodo artimą giminingumą.
@@ -126,7 +126,7 @@ Pavyzdžiui, žemėlapyje pavaizduotos tik keletas sekų iš pietų. Tai nėra t
 
 <!-- ############ EUROPE ############# -->
 <!-- This is left-side text 4-->
-# [Updates for Europe](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Europe&p=grid&r=country&c=country)
+# [Naujienos Europoje](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Europe&p=grid&r=country&c=country)
 
 
 <!-- There is no right side text -->
@@ -134,7 +134,7 @@ Pavyzdžiui, žemėlapyje pavaizduotos tik keletas sekų iš pietų. Tai nėra t
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 5-->
-# [Continued spread across borders in the last 3-5 weeks](https://nextstrain.org/ncov/2020-03-27?c=country&d=tree,map&dmin=2020-03-06&f_region=Europe&p=full&r=country&legend=closed)
+# [Per pastarąsias 3–5 savaites virusas plito iš vienos valstybės į kitą](https://nextstrain.org/ncov/2020-03-27?c=country&d=tree,map&dmin=2020-03-06&f_region=Europe&p=full&r=country&legend=closed)
 
 Here, we show samples collected across Europe in the last 3 weeks, colored by the country they were isolated in.
 Notably, while there are some small clusters that are country-specific, there is also a great deal of mixing between isolates from different countries.
