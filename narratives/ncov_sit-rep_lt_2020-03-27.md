@@ -46,7 +46,7 @@ abstract: "Šioje ataskaitoje naudojami viešai pateikti genominiai duomenys ski
 * [Padėka](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=20).  
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Santrauka
 
 Išanalizavome 1495 viešai pateiktų COVID-19 genomus. Palyginus šiuos virusinius genomus mes galime apibrėžti COVID-19 plitimą tiek viso pasaulio mastu, tiek vietiškai. Šios savaitės naujienose pranešame:
 
