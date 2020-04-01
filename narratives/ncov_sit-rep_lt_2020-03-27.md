@@ -113,12 +113,12 @@ Labai rekomenduojame išnagrinėti pateiktus šaltinius, ypač jeigu nesate susi
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/2020-03-27?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from viral isolates taken in 48 countries across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [Informacija apie mėginius](https://nextstrain.org/ncov/2020-03-27?c=country&r=country&d=map&p=grid&legend=closed)
+Šiuo metu turime sekas, gautas iš virusinių izoliatų, surinktų 48 šalyse šešiuose žemynuose. Tai yra neįtikėtinas pasiekimas – nusekvenuoti didelį nežinomą RNR virusą pandemijos įkarštyje yra itin sudėtinga ir pasiekiama tik dėka milžiniško viso pasaulio mokslininkų bei gydytojų darbo ir laiku pateiktų duomenų.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+Nors šie duomenys leidžia mums charakterizuoti protrūkį bei stebėti jo plitimą realiu laiku, svarbu pabrėžti, kad mūsų išvados yra ribotos turimų duomenų.
 <br><br>
-For example, the map shows very few sequences from the global south. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+Pavyzdžiui, žemėlapyje pavaizduotos tik keletas sekų iš pietų. Tai nėra todėl, kad šiose šalyse mažai COVID-19 atvejų arba todėl, kad šių atvejų svarba nėra didelė; verčiau, mes tiesiog neturime pakankamai duomenų iš šių sričių. Kiekvieno apskritimo dydis simbolizuoja prienamų duomenų kiekį, bet ne protrūkio dydį.
 <!-- There is NO right-side text -->
 
 
