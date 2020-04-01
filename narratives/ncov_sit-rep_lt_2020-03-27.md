@@ -136,19 +136,18 @@ Pavyzdžiui, žemėlapyje pavaizduotos tik keletas sekų iš pietų. Tai nėra t
 <!-- This is left-side text 5-->
 # [Per pastarąsias 3–5 savaites virusas plito iš vienos valstybės į kitą](https://nextstrain.org/ncov/2020-03-27?c=country&d=tree,map&dmin=2020-03-06&f_region=Europe&p=full&r=country&legend=closed)
 
-Here, we show samples collected across Europe in the last 3 weeks, colored by the country they were isolated in.
-Notably, while there are some small clusters that are country-specific, there is also a great deal of mixing between isolates from different countries.
+Žemėlapyje bei filogenetiniame medyje yra pavaizduoti per pastarąsias 3 savaitęs visoje Europoje surinkti mėginiai, nuspalvinti pagal mėginio kilmės šalį. Šalių viduje stebimas tiek tam tikras giminingų mėginių susitelkimas, tiek ir gana didelė mėginių įvairovė. 
 <br><br>
-This suggests that there has been continued spread across borders within the last 3-5 weeks.
+Tai leidžia daryti prielaidą, jog per pastarąsias 3–5 savaites virusas ir toliau plito iš vienos valstybės į kitą.
 <br><br>
-This geographic clustering might become stronger with recent mitigation efforts that curtail travel between regions.
+Toks geografinis susitelkimas šalių viduje ateityje gali padidėti įsigaliojus epidemijos kontrolės bei švelninimo priemonėms, ribojančioms susisiekimą tarp skirtingų regionų. 
 <!-- There is no right side text -->
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 5-->
-# [New sequences from Iceland](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&d=tree,map&f_country=Iceland&legend=open)
+# [Naujos sekos iš Islandijos](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&d=tree,map&f_country=Iceland&legend=open)
 
-We received many new sequences from Iceland.
+Gauta daug naujų sekų iš Islandijos.
 Coloring by the exposure history of each case (when known), we see that many of these cases are from recent travelers.
 We're working hard to analyze all of this new data, and will report our findings next week.
 <!-- There is no right side text -->
