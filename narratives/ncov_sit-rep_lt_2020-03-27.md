@@ -75,37 +75,37 @@ Išanalizavome 1495 viešai pateiktų COVID-19 genomus. Palyginus šiuos virusin
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/2020-03-27)
-We've prepared some resources that are worth reading to familiarize yourself with COVID-19 and the virus that causes it, SARS-CoV-2, also known as hCov-19.
-This information will make interpreting the data we present in this narrative easier.
+# [COVID-19 Šaltiniai](https://nextstrain.org/ncov/2020-03-27)
+Mes paruošėme keletą šaltinių, kurie padės nuodugniau susipažinti su COVID-19 liga ir ją sukeliančiu virusu SARS-CoV-2, taip pat žinomu kaip hCov-19.
+Šiuose šaltiniuose pateikta informacija palengvins šioje ataskaitoje pateiktų duomenų interpretaciją.
 <br><br>
-If you aren't familiar with phylogenetic trees, we encourage you to check out the ['How to Read Phylogenies' narrative](https://nextstrain.org/narratives/trees-background/) and come back when you're ready.
+Labai rekomenduojame išnagrinėti pateiktus šaltinius, ypač jeigu nesate susidūrę su filogenetinių medžių tematika ir jų interpretavimu ['Kaip interpretuoti filogenetinius medžius'](https://nextstrain.org/narratives/trees-background/).
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-## Nextstrain Resources  
+## Nextstrain šaltiniai  
 
-[How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
+[Kaip interpretuoti filogenetinius medžius](https://nextstrain.org/narratives/trees-background/).  
 
-[Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
+[Apie koronavirusus](https://nextstrain.org/help/coronavirus/human-CoV).
 
-[Background on the current hCoV-19 outbreak](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
+[Apie dabartinį hCoV-19 protrūkį](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
 
-[FAQs](https://nextstrain.org/help/coronavirus/FAQ).
+[DUK](https://nextstrain.org/help/coronavirus/FAQ).
 
-[Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+[Dažnai sutinkami klaidingi požiūriai](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
 
-## External Resources  
-[WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+## Kiti šaltiniai 
+[PSO padėties ataskaitos](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 
-[CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+[LKC šaltiniai](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
-[The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+[Apie COVID-19 NYTimes laikraštyje](https://www.nytimes.com/news-event/coronavirus).
 
-[Our World in Data](https://ourworldindata.org/coronavirus).
+[Our World in Data tinklapis](https://ourworldindata.org/coronavirus).
 
-[Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+[Paklauskite mokslininkų ir DUK](https://covid19.fas.org/l/en).
 
 
 ```
