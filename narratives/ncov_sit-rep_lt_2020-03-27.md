@@ -35,7 +35,7 @@ abstract: "Šioje ataskaitoje naudojami viešai pateikti genominiai duomenys ski
 # [Turinys](https://nextstrain.org/ncov/2020-03-27?d=tree,map&p=grid)
 
 * [Šaltiniai susipažinti su kontekstu](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=2).     
-* [Informacija apie duomenis](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=3).  
+* [Informacija apie mėginius](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=3).  
 * [Naujienos Europoje](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=4).  
 * [Naujienos Šiaurės Amerikoje](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=7).  
 * [Naujienos Centrinėje ir Pietų Amerikoje](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=11).  
@@ -48,28 +48,28 @@ abstract: "Šioje ataskaitoje naudojami viešai pateikti genominiai duomenys ski
 ```auspiceMainDisplayMarkdown
 # Executive summary
 
-We analyzed 1,495 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we report:
+Išanalizavome 1495 viešai pateiktų COVID-19 genomus. Palyginus šiuos virusinius genomus mes galime apibrėžti COVID-19 plitimą tiek viso pasaulio mastu, tiek vietiškai. Šios savaitės naujienose pranešame:
 
-**Europe**  
-* We continue to see strong mixing of samples across Europe, suggesting that the virus has continued to move across borders in the last 3-5 weeks. As mitigation measures have time to take effect, we may see more clustering of cases by country.
+**Europa**  
+* Toliau stebima mėginių įvairovė Europoje, kas leidžia daryti prielaidą, jog per pastarąsias 3-5 savaites virusas kirto valstybių sienas. Epidemijos švelninimo priemonėms įsigaliojus, ateityje galime tikėtis daugiau atvejų susitelkimų šalių viduje.
 
-**North America**   
-* Within the U.S., transmission patterns are complex: samples collected from opposite sides of the country still show close relationships.
-* Washington state has had at least two independent introductions (the first likely from China, the second likely from Europe), which have led to two separate transmission chains.
-* There is evidence for likely local transmission within several states, most clearly within California.
+**Šiaurės Amerika**   
+* JAV užkrato plitimo modelis yra sudėtingas: mėginiai, surinkti iš priešingų šalies kraštų, rodo artimą giminingumą.
+* Vašingtono valstijoje vyko bent dvi nepriklausomos introdukcijos (pirmoji tikėtina iš Kinijos, antroji - iš Europos), kurios sukūrė sąlygas dviejų atskirų perdavimo grandinių atsiradimui.
+* Yra įrodymų, patvirtinančių viruso plitimą keletos valstijų viduje (ypatingai Kalifornijoje).
 
-**Central and South America**
-* We received new sequences from South America this week, but sampling remains sparse. There may be more COVID activity in this region than is captured in the available data, but we cannot say for sure.
+**Centrinė ir Pietų Amerika**
+* Šią savaitę gavome naujas sekas iš Pietų Amerikos, tačiau mėginių imtis nėra didelė. Tikėtina, jog šiame regione gali būti daugiau COVID-19 atvejų nei yra pateikta prienamuose duomenyse, tačiau negalime drąsiai to teigti.
 
-**Asia**  
-* We find evidence for recent export of COVID-19 from Iran.
+**Azija**  
+* Rasta įrodymų, kad COVID-19 išplito iš Irano.
 
-**Africa**  
-* The phylogeny suggests likely local transmission within Kinshasa, Democratic Republic of the Congo, for the last 11+ days.
-* We received new sequences from Africa this week, but sampling remains sparse; there may be much more COVID activity in this region than is captured in the available data.
+**Afrika**  
+* Remiantis filogenetiniais duomenimis, per pastarasias 11+ dienų infekcija plito Kinšasos (Kongo Demokratinė Respublika) viduje.
+* Šią savaitę gavome naujas sekas iš Afrikos, tačiau mėginių imtis nėra didelė. Tikėtina, jog šiame regione gali būti daugiau COVID-19 atvejų nei yra pateikta prienamuose duomenyse.
 
-**Oceania**
-* There is evidence in the genetic data for local transmission in New South Wales, Australia.
+**Okeanija**
+* Genetiniai duomenys įrodo, jog  virusas plito Naujojo Pietų Velso (Australija) viduje.
 ```
 
 
