@@ -155,7 +155,7 @@ We're working hard to analyze all of this new data, and will report our findings
 
 <!-- ############ NORTH AMERICA ############# -->
 <!-- This is left-side text 6-->
-# [Updates for North America](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=North%20America&p=grid&r=location&legend=closed)
+# [Naujienos Šiaurės Amerikoje](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=North%20America&p=grid&r=location&legend=closed)
 
 
 <!-- There is no right side text -->
@@ -163,9 +163,9 @@ We're working hard to analyze all of this new data, and will report our findings
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 7-->
-# [Transmission across the U.S. is complex and not well-understood](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_division=Connecticut&label=clade:B1&m=div&p=full)
+# [JAV plitimo modelis yra sudėtingas ir kol kas nėra gerai ištirtas](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_division=Connecticut&label=clade:B1&m=div&p=full)
 
-Even within the U.S., transmission patterns are highly complex.
+Vien tik JAV, plitimo modeliai yra labai sudėtingi.
 <br><br>
 For example, recent samples from Connecticut (selected tips) are both ancestral to and intermingled with samples from Washington state (faded tips).
 While more data is needed to draw firm conclusions, this suggests that there has been recent transmission between even very distant parts of the country.
@@ -177,7 +177,7 @@ Additional data will help us understand what is likely a deeply interconnected n
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 8-->
-# [Multiple transmission chains circulating in Washington state](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_country=USA&f_division=Washington&p=full&r=location)
+# [Kelios perdavimo grandinės Vašingtono valstijoje](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_country=USA&f_division=Washington&p=full&r=location)
 
 Looking at the cases in Washington state, we see that there are at least two separate local outbreak clusters.
 <br><br>
@@ -188,7 +188,7 @@ However, the two clusters have different origins: the first cluster is most clos
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 9-->
-# [Likely two local transmission chains in California](https://nextstrain.org/ncov/2020-03-27?c=location&f_country=USA&f_division=California&label=clade:A7&p=full&r=location&m=div&d=tree,map)
+# [Tikėtina, jog Kalifornijoje yra dvi vietinės perdavimo grandinės](https://nextstrain.org/ncov/2020-03-27?c=location&f_country=USA&f_division=California&label=clade:A7&p=full&r=location&m=div&d=tree,map)
 
 We see similar patterns elsewhere in the U.S.
 <br><br>
@@ -204,7 +204,7 @@ These counties' clusters of cases are likely to due to separate introductions, b
 
 <!-- ############ SOUTH AMERICA ############# -->
 <!-- This is left-side text 10-->
-# [Updates for Central & South America](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Central%20America,South%20America&p=grid&r=country&c=country&legend=closed)
+# [Naujienos Centrinėje ir Pietų Amerikoje](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Central%20America,South%20America&p=grid&r=country&c=country&legend=closed)
 
 
 <!-- There is no right side text -->
@@ -212,7 +212,7 @@ These counties' clusters of cases are likely to due to separate introductions, b
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 11-->
-# [Primarily travel-related cases sampled in South America](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&d=tree,map&f_region=Central%20America,South%20America&m=div&p=full&legend=open)
+# [Preliminarūs su kelionėmis susijusių atvejų mėginiai iš Pietų Amerikos](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&d=tree,map&f_region=Central%20America,South%20America&m=div&p=full&legend=open)
 We don't have much genetic sequence data from South America yet.
 Of the available data, most are from travelers.
 Here, each case is colored by the known exposure history.
@@ -226,7 +226,7 @@ Sequencing efforts are ramping up, and we will report back as the situation beco
 
 <!-- ############ ASIA ############# -->
 <!-- This is left-side text 12-->
-# [Updates for Asia](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Asia&p=grid&r=country&c=country&legend=closed)
+# [Naujienos Azijoje](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Asia&p=grid&r=country&c=country&legend=closed)
 
 
 <!-- There is no right side text -->
@@ -234,7 +234,7 @@ Sequencing efforts are ramping up, and we will report back as the situation beco
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 13-->
-# [Export of COVID-19 from Iran](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
+# [COVID-19 plitimas iš Irano](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 <!-- There is no right side text -->
 
 We do not yet have viral genomes from Iran.
@@ -253,7 +253,7 @@ This is consistent with several possible hypotheses; as more data emerges, we'll
 
 <!-- ############ AFRICA ############# -->
 <!-- This is left-side text 14-->
-# [Updates for Africa](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Africa&p=grid&r=country)
+# [Naujienos Afrikoje](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Africa&p=grid&r=country)
 
 
 
@@ -261,7 +261,7 @@ This is consistent with several possible hypotheses; as more data emerges, we'll
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 15-->
-# [Evidence for local transmission in Kinshasa, Congo](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_country=Congo&f_region=Africa&label=clade:A2a&p=grid&r=country)
+# [Įrodytas vietinis plitimas Kinšasoj, Kongo Demokratinėje Respublikoje](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_country=Congo&f_region=Africa&label=clade:A2a&p=grid&r=country)
 
 New sequences from Kinshasa in the Democratic Republic of the Congo show evidence for several separate introduction events.
 <br><br>
@@ -276,7 +276,7 @@ The INRB's excellent work to sequence the virus from early samples allows us to 
 
 <!-- ############ OCEANIA ############# -->
 <!-- This is left-side text 17-->
-# [Updates for Oceania](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Oceania&p=grid&r=country&c=country&legend=closed)
+# [Naujienos Okeanijoje](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Oceania&p=grid&r=country&c=country&legend=closed)
 
 
 <!-- There is no right side text -->
@@ -284,7 +284,7 @@ The INRB's excellent work to sequence the virus from early samples allows us to 
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 18-->
-# [Local transmission in New South Wales](https://nextstrain.org/ncov/2020-03-27?Label=clade:A3&d=tree&f_division=New%20South%20Wales&label=clade:A3&p=full&r=location)
+# [Vietinis plitimas Naujajame Pietų Velse](https://nextstrain.org/ncov/2020-03-27?Label=clade:A3&d=tree&f_division=New%20South%20Wales&label=clade:A3&p=full&r=location)
 
 New sequences from Australia show evidence of local transmission across New South Wales.
 The virus has likely been circulating in this area since at least the end of February.
@@ -296,19 +296,19 @@ The virus has likely been circulating in this area since at least the end of Feb
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 19-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Ką jūs galite padaryti?](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...kaip fizinis asmuo
+* Siekite griežto socialinio atsiribojimo, ypač jeigu priklausote rizikos grupei.
+* Atsiminkite, kad netgi jeigu jūs nepriklausote rizikos grupei, jūsų aplinkiniai gali jai priklausyti; sekite išvardytas rekomendacijas tam, kad galėtumėte apsaugoti juos.
+* Plaukite rankas "tarsi ką tik pjaustėte jalapeno pipirus, o dabar turite pasikeisti akių lęšius".
+* Likite namuose, ypatingai jeigu sergate; turėkite maisto bei kt. atsargų jeigu privalėsite karantinuotis. 
+* Jeigu esate darbdavys, jei įmanoma, paskatinkite savo darbuotojus dirbti nuotoliniu būdu.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...kaip valdžios atstovas  
+* Suteikite sąlygas nemokamamiems bei platiems tyrimams atlikti. 
+* Nustatykite griežtas socialinio atsiribojimo taisykles.  
+* Finansuokite pastangas nukreiptas į užsikrėtusių asmenų maršutų rekonstrukciją.  
+* Suteikite finansinę pagalbą labiausiai paveiktiems įsigaliojusių socialinio atsiribojimo.
 
 
 <!-- This is the right-side text -->
@@ -336,7 +336,7 @@ The virus has likely been circulating in this area since at least the end of Feb
 <!-- ##### slide break ##### -->
 
 <!-- This is left-side text 20-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-03-27?d=map&c=author)
+# [Padėka](https://nextstrain.org/ncov/2020-03-27?d=map&c=author)
 
 We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
 Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
