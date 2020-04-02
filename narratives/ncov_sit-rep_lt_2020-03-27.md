@@ -314,7 +314,7 @@ Greičiausiai virusas cirkuliavo šiame regione bent jau nuo vasario mėn. pabai
 
 ```auspiceMainDisplayMarkdown
 ## Išvados
-####  Ateinančių savaičių bėgyje stebėsime ar epidemijos kontrolės bei švelninimo priemonės turės įtakos viruso plitimui tarp šalių stabdymui. 
+####  Ateinančiomis savaitėmis stebėsime ar epidemijos kontrolės bei švelninimo priemonės turės įtakos viruso plitimo tarp šalių stabdymui. 
 <br><br>
 #### Gavus daugiau sekų iš Pietų Amerikos, stebėsime vietinę situaciją ir  Pietų AmerikojeWe will be monitoring the situation in South America for signs of local transmission as more sequences become available.
 <br><br>
