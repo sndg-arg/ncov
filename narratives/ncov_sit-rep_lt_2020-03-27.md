@@ -51,7 +51,7 @@ abstract: "Šioje ataskaitoje naudojami viešai pateikti genominiai duomenys ski
 Išanalizavome 1495 viešai pateiktų COVID-19 genomus. Palyginus šiuos virusinius genomus mes galime apibrėžti COVID-19 plitimą tiek viso pasaulio mastu, tiek vietiškai. Šios savaitės naujienose pranešame:
 
 **Europa**  
-* Toliau stebima mėginių įvairovė Europoje, kas leidžia daryti prielaidą, jog per pastarąsias 3-5 savaites virusas plito iš vienos valstybės į kitą. Epidemijos švelninimo priemonėms įsigaliojus, ateityje galime tikėtis daugiau atvejų susitelkimų šalių viduje.
+* Toliau stebima mėginių įvairovė Europoje, kas leidžia daryti prielaidą, jog per pastarąsias 3-5 savaites virusas plito iš vienos valstybės į kitą. Epidemijos švelninimo priemonėms įsigaliojus, ateityje galime tikėtis daugiau atvejų telkinių šalių viduje.
 
 **Šiaurės Amerika**   
 * JAV užkrato plitimo modelis yra sudėtingas: mėginiai, surinkti iš priešingų šalies kraštų, rodo artimą giminingumą.
@@ -148,8 +148,7 @@ Toks geografinis susitelkimas šalių viduje ateityje gali padidėti įsigalioju
 # [Naujos sekos iš Islandijos](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&d=tree,map&f_country=Iceland&legend=open)
 
 Gauta daug naujų sekų iš Islandijos.
-Coloring by the exposure history of each case (when known), we see that many of these cases are from recent travelers.
-We're working hard to analyze all of this new data, and will report our findings next week.
+Spalvos atspindi kiekvieno atvejo maršruto istoriją (jeigu jis yra žinomas) – matoma, kad daugelis atvejų yra susiję su perdavimu pastarųjų kelionių metų. Šiuo metu analizuojame naujus duomenis, todėl išsamesnes išvadas pateiksime kitą savaitę.
 <!-- There is no right side text -->
 
 
@@ -167,11 +166,11 @@ We're working hard to analyze all of this new data, and will report our findings
 
 Vien tik JAV, plitimo modeliai yra labai sudėtingi.
 <br><br>
-For example, recent samples from Connecticut (selected tips) are both ancestral to and intermingled with samples from Washington state (faded tips).
-While more data is needed to draw firm conclusions, this suggests that there has been recent transmission between even very distant parts of the country.
+Pavyzdžiui, palyginus naujausius mėginius iš Konektikuto (paryškintos šakos) su mėginiais iš Vašingtono valstijos (blankios šakos), buvo nustatytas tiek mėginių giminingumas, tiek jų tarpusavio susimaišymas. 
+Tai leidžia daryti prielaidą, kad pastaruoju metu vyko perdavimas tarp nutolusių šalies kraštų, tačiau šiuo metu neužtenka duomenų tvirtoms išvadoms.
 <br><br>
-This highlights that the transmission patterns across the U.S. are far more complex than is represented in the currently available data.
-Additional data will help us understand what is likely a deeply interconnected national epidemic playing out against the backdrop of highly heterogeneous responses from states.
+Tai pabrėžia, jog perdavimo modeliai JAV yra daug sudėtingesni nei atvaizduojama šiuo metu turimais duomenimis.
+Papildomi duomenys padėtų mums geriau suprasti, ar tokia nacionalinė epidemija yra susijusi su labai skirtingais atskirų valstybių atsako bei reguliacijos veiksmais.
 <!-- There is no right side text -->
 
 
@@ -179,9 +178,9 @@ Additional data will help us understand what is likely a deeply interconnected n
 <!-- This is left-side text 8-->
 # [Kelios perdavimo grandinės Vašingtono valstijoje](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_country=USA&f_division=Washington&p=full&r=location)
 
-Looking at the cases in Washington state, we see that there are at least two separate local outbreak clusters.
+Išanalizavus Vašingtono valstijos atvejus, matoma, kad yra bent du atskiri vietiniai protrūkių telkiniai.
 <br><br>
-However, the two clusters have different origins: the first cluster is most closely related to samples from China, while the second is most closely related to samples from Europe. It is also possible that these introductions were indirect, with unsampled cases from a different region in between.
+Įdomu, jog abu telkiniai turi skirtingą kilmę: pirmasis yra labiausiai giminingas su mėginiais iš Kinijos, tuo tarpu antrasis yra labiausiai artimas mėginiams iš Europos. Yra galimybė, jog dėl nepakankamo mėginių kiekio iš tarpinių regionų abi šios introdukcijos nebuvo tiesioginės.
 <br><br>
 <!-- There is no right side text -->
 
@@ -190,15 +189,15 @@ However, the two clusters have different origins: the first cluster is most clos
 <!-- This is left-side text 9-->
 # [Tikėtina, jog Kalifornijoje yra dvi vietinės perdavimo grandinės](https://nextstrain.org/ncov/2020-03-27?c=location&f_country=USA&f_division=California&label=clade:A7&p=full&r=location&m=div&d=tree,map)
 
-We see similar patterns elsewhere in the U.S.
+Panašūs ligos perdavimo modeliai taip pat stebimi ir kituose JAV regionuose.
 <br><br>
-Here, we see several samples from Solano County in northern California, that are sampled on different dates but very closely related to one another.
+Matome keletą mėginių iš Solano apskrities šiaurės Kalifornijoje, kurie buvo paimti skirtingomis datomis, bet yra labai giminingi vienas kitam.
 <br><br>
-While the available data from California is too limited to make strong conclusions, this preliminary evidence is consistent with local transmission within Solano County.
+Kadangi duomenų kiekis iš Kalifornijos yra per daug ribotas tam, kad galėtume daryti tvirtas išvadas, preliminari analizė įrodo, kad vyko perdavimas Solano apskrities viduje.
 <br><br>
-Elsewhere in the tree, we see a similar pattern for samples isolated in Santa Clara County.
+Panaši tendencija buvo pastebėta medyje atvazidavus keletą mėginių, gautų iš Santa Klasors apskrities. 
 <br><br>
-These counties' clusters of cases are likely to due to separate introductions, based on their relative positions in the tree.
+Atsižvelgiant į šių apskričių mėginių santykines pozicijas medyje, šių atvejų telkiniai galimai susiformavo dėl atskirų nepriklausomų introdukcijų.
 <!-- There is no right side text -->
 
 
@@ -213,12 +212,12 @@ These counties' clusters of cases are likely to due to separate introductions, b
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 11-->
 # [Preliminarūs su kelionėmis susijusių atvejų mėginiai iš Pietų Amerikos](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&d=tree,map&f_region=Central%20America,South%20America&m=div&p=full&legend=open)
-We don't have much genetic sequence data from South America yet.
-Of the available data, most are from travelers.
-Here, each case is colored by the known exposure history.
+Šiuo metu neturime daug genetinių sekų duomenų iš Pietų Amerikos.
+Iš turimų duomenų dauguma sergančiųjų yra keliautojai.
+Kiekvienas atvejis yra nuspalvintas pagal žinomomą maršruto istoriją.
 <br><br>
-While potentially interesting patterns are starting to emerge in the non-travel-associated cases, we don't yet have enough evidence to draw conclusions.
-Sequencing efforts are ramping up, and we will report back as the situation becomes clearer.
+Nepaisant to, kad atsiranda vis daugiau su kelionėmis nesusijusių ligos plitimo atvejų, šiuo metu neturime pakankamai įrodymų, pagrįsiančių tvirtas išvadas.
+Šiuo metu aktyviai sekvenuojame turimus mėginius, todėl išsamesnę ataskaitą pateiksime kai matysime daugiau aiškumų turimuose duomenyse.
 <!-- There is no right side text -->
 
 
