@@ -314,9 +314,9 @@ The virus has likely been circulating in this area since at least the end of Feb
 
 ```auspiceMainDisplayMarkdown
 ## Išvados
-####  Ateinančių savaičių bėgyje stebėsime ar prIn the next few weeks, we will be watching the European outbreak for signs that the new mitigation measures have stemmed cross-border transmission.
+####  Ateinančių savaičių bėgyje stebėsime ar epidemijos kontrolės bei švelninimo priemonės turės įtakos viruso plitimui tarp šalių stabdymui. 
 <br><br>
-#### We will be monitoring the situation in South America for signs of local transmission as more sequences become available.
+#### Gavus daugiau sekų iš Pietų Amerikos, stebėsime vietinę situaciją ir  Pietų AmerikojeWe will be monitoring the situation in South America for signs of local transmission as more sequences become available.
 <br><br>
 ####  The U.S. epidemic likely has very complex transmission patterns of both import and spread across even disparate parts of the country. We find evidence of multiple local transmission chains in Washington and California.
 <br><br>
