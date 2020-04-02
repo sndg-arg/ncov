@@ -214,7 +214,7 @@ Atsižvelgiant į šių apskričių mėginių santykines pozicijas medyje, šių
 # [Preliminarūs su kelionėmis susijusių atvejų mėginiai iš Pietų Amerikos](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&d=tree,map&f_region=Central%20America,South%20America&m=div&p=full&legend=open)
 Šiuo metu neturime daug genetinių sekų duomenų iš Pietų Amerikos.
 Iš turimų duomenų dauguma sergančiųjų yra keliautojai.
-Kiekvienas atvejis yra nuspalvintas pagal žinomomą maršruto istoriją.
+Kiekvienas atvejis yra nuspalvintas pagal žinomą maršruto istoriją.
 <br><br>
 Nepaisant to, kad atsiranda vis daugiau su kelionėmis nesusijusių ligos plitimo atvejų, šiuo metu neturime pakankamai įrodymų, pagrįsiančių tvirtas išvadas.
 Šiuo metu aktyviai sekvenuojame turimus mėginius, todėl išsamesnę ataskaitą pateiksime kai matysime daugiau aiškumų turimuose duomenyse.
