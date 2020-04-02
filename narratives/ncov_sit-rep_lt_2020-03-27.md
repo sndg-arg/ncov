@@ -169,7 +169,7 @@ Vien tik JAV, plitimo modeliai yra labai sudėtingi.
 Pavyzdžiui, palyginus naujausius mėginius iš Konektikuto (paryškintos šakos) su mėginiais iš Vašingtono valstijos (blankios šakos), buvo nustatytas tiek mėginių giminingumas, tiek jų tarpusavio susimaišymas. 
 Tai leidžia daryti prielaidą, kad pastaruoju metu vyko perdavimas tarp nutolusių šalies kraštų, tačiau šiuo metu neužtenka duomenų tvirtoms išvadoms.
 <br><br>
-Tai pabrėžia, jog perdavimo modeliai JAV yra daug sudėtingesni nei atvaizduojama šiuo metu turimais duomenimis.
+Tai pabrėžia, jog perdavimo modeliai JAV yra daug sudėtingesni nei kad parodoma atvaizduojant šiuo metu turimus duomenis.
 Papildomi duomenys padėtų mums geriau suprasti, ar tokia nacionalinė epidemija yra susijusi su labai skirtingais atskirų valstybių atsako bei reguliacijos veiksmais.
 <!-- There is no right side text -->
 
