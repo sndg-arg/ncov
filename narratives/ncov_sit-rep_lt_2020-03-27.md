@@ -236,15 +236,15 @@ Nepaisant to, kad atsiranda vis daugiau su kelionėmis nesusijusių ligos plitim
 # [COVID-19 plitimas iš Irano](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 <!-- There is no right side text -->
 
-We do not yet have viral genomes from Iran.
-However, we do have sequences from many cases with reported travel to Iran.
+Šiuo metu neturime virusinių genomų sekų iš Irano.
+Tačiau turime pakankamai sekų tų atvejų, kurie yra susiję su kelionėmis į Iraną.
 <br><br>
-Most sequences with travel history to Iran group together, suggesting that a lot of the Iranian cases were derived from a single introduction into Iran.
+Dauguma sekų, susijusių su kelionių istorija į Iraną, formuoja atskirą telkinį, kas leidžia daryti prielaidą, jog epidemijai Irane turėjo įtakos vienas introdukcijos kelias.
 <br><br>
-At the very bottom of the tree, we see a new sequence from a woman in Pakistan with reported travel to Iran.
-Interestingly, this case is an outgroup to the other cases that we know about from Iran, but was sampled around the same time.
+Pačioje medžio apačioje matome naujai gautą seką iš mėginio, priklausančio moteriai Pakistane, kuri pranešė apie kelionę į Iraną.
+Įdomu yra tai, kad šis atvejis nepatenka į aukščiau paminėtų mėginių telkinį, tačiau iš sergančiosios buvo paimtas daugiau mažiau tokiu pačiu metu.
 <br><br>
-This is consistent with several possible hypotheses; as more data emerges, we'll update our analysis.
+Tai galima paaiškinti keletomis galimų hipotezių, tačiau ataskaitą atnaujinsime kai turėsime daugiau duomenų.
 <!-- There is no right side text -->
 
 
@@ -262,13 +262,13 @@ This is consistent with several possible hypotheses; as more data emerges, we'll
 <!-- This is left-side text 15-->
 # [Įrodytas vietinis plitimas Kinšasoj, Kongo Demokratinėje Respublikoje](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_country=Congo&f_region=Africa&label=clade:A2a&p=grid&r=country)
 
-New sequences from Kinshasa in the Democratic Republic of the Congo show evidence for several separate introduction events.
+Naujos sekos iš Kinšasos Kongo Demokratinėje Respublikoje įrodo, jog vyko kelios nepriklausomos introdukcijos.
 <br><br>
-Some of these sequences form a group of very closely related, local cases that were sampled over several days.
+Kai kurios iš šių kelių dienų bėgyje paimtų mėginių sekų sudaro labai giminingų vietinių atvejų telkinį.
 <br><br>
-This is consistent with local transmission, ongoing since at least March 15 (the sampling date of the earliest case that appears to be part of this local transmission chain) and possibly earlier.
+Tai pagrindžia vietinio perdavimo scenarijų, kuris vyksta anksčiausiai nuo kovo 15 d. (pirmojo su vietiniu perdavimu susijusio mėginio paėmimo data) arba galimai net anksčiau.
 <br><br>
-The INRB's excellent work to sequence the virus from early samples allows us to see community transmission that is hidden in many other places.
+Puikus INRB darbas ties ankstyvų mėginių sekvenavimo taip pat leidžia stebėti vietinį perdavimą daugelyje kitų, mažiau ištirtų, vietų.
 <!-- There is no right side text -->
 
 
@@ -285,8 +285,8 @@ The INRB's excellent work to sequence the virus from early samples allows us to 
 <!-- This is left-side text 18-->
 # [Vietinis plitimas Naujajame Pietų Velse](https://nextstrain.org/ncov/2020-03-27?Label=clade:A3&d=tree&f_division=New%20South%20Wales&label=clade:A3&p=full&r=location)
 
-New sequences from Australia show evidence of local transmission across New South Wales.
-The virus has likely been circulating in this area since at least the end of February.
+Naujos sekos iš Australijos rodo, jog vyko vietinis perdavimas Naujajame Pietų Velse.
+Greičiausiai virusas cirkuliavo šiame regione bent jau nuo vasario mėn. pabaigos.
 
 <!-- There is no right side text -->
 
