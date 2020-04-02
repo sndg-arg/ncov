@@ -140,7 +140,7 @@ Pavyzdžiui, žemėlapyje pavaizduotos tik keletas sekų iš pietų. Tai nėra t
 <br><br>
 Tai leidžia daryti prielaidą, jog per pastarąsias 3–5 savaites virusas ir toliau plito iš vienos valstybės į kitą.
 <br><br>
-Toks geografinis susitelkimas šalių viduje ateityje gali padidėti įsigaliojus epidemijos kontrolės bei švelninimo priemonėms, ribojančioms susisiekimą tarp skirtingų regionų. 
+Toks geografinis susitelkimas šalių viduje ateityje gali sustiprėti įsigaliojus epidemijos kontrolės bei švelninimo priemonėms, ribojančioms susisiekimą tarp skirtingų regionų. 
 <!-- There is no right side text -->
 
 <!-- ##### slide break ##### -->
