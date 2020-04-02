@@ -321,7 +321,7 @@ Greičiausiai virusas cirkuliavo šiame regione bent jau nuo vasario mėn. pabai
 <br><br>
 #### Radome vietinio plitimo Naujajame Pietų Velse, Australijoje, įrodymų.
 <br><br>
-#### Randame vietinio plitimo Kinshasoje, KDR, įrodymų. Kol kad neturime pakankamai duomenų tam, kad galėtume įvertinti, ar kituose Afrikos regionuose taip pat vyksta vidinis plitimas.
+#### Randame vietinio plitimo Kinšasoje, KDR, įrodymų. Kol kad neturime pakankamai duomenų tam, kad galėtume įvertinti, ar kituose Afrikos regionuose taip pat vyksta vidinis plitimas.
 ```
 
 <!-- ##### slide break ##### -->
