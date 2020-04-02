@@ -316,13 +316,13 @@ Greičiausiai virusas cirkuliavo šiame regione bent jau nuo vasario mėn. pabai
 ## Išvados
 ####  Ateinančiomis savaitėmis stebėsime ar epidemijos kontrolės bei švelninimo priemonės turės įtakos viruso plitimo tarp šalių stabdymui. 
 <br><br>
-#### Gavus daugiau sekų iš Pietų Amerikos, stebėsime vietinę situaciją ir  Pietų AmerikojeWe will be monitoring the situation in South America for signs of local transmission as more sequences become available.
+#### Kadangi vis daugiau sekų tampa prienamos, toliau stebėsime padėtį Pietų Amerikoje ir ieškosime vietinio perdavimo požymių.
 <br><br>
-####  The U.S. epidemic likely has very complex transmission patterns of both import and spread across even disparate parts of the country. We find evidence of multiple local transmission chains in Washington and California.
+#### JAV epidemijos modelis yra labai sudėtingas ties išorinio, tiek vietinio plitimo atvejais nutolusiuose šalies regionuose. Nustatėme kelias vietinio perdavimo grandines Vašingtone ir Kalifornijoje.
 <br><br>
-#### We find evidence of local transmission in New South Wales, Australia.
+#### Radome vietinio perdavimo Naujajame Pietų Velse, Australijoje, įrodymų.
 <br><br>
-#### We find evidence of local transmission in Kinshasa in the DRC. We do not yet have enough data to assess whether the virus is circulating locally in other parts of Africa.
+#### Randame vietinio perdavimo Kinshasoje, KDR, įrodymų. Kol kad neturime pakankamai duomenų tam, kad galėtume įvertinti, ar vyksta vidinis plitimas kituose Afrikos regionuose.
 ```
 
 <!-- ##### slide break ##### -->
@@ -337,18 +337,18 @@ Greičiausiai virusas cirkuliavo šiame regione bent jau nuo vasario mėn. pabai
 <!-- This is left-side text 20-->
 # [Padėka](https://nextstrain.org/ncov/2020-03-27?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Norėtume padėkoti viso pasaulio mokslininkams, tiriantiems šį protrūkį ir ypatingai dirbantiems Kinijoje, nuostabų ir savalaikį darbą.
+Tokie tyrimai tampa įmanomi tik dėka spartaus dalinimosi genominiais duomenimis ir metaduomenimis.
 
 <br>
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+Taip pat dėkojame [GISAID](https://gisaid.org) už  šių duomenų įkėlimo ir bendrinimo platformos teikimą. 
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Dėkojame už pateiktus duomeneminis šioms laboratorijoms:
 
 * Andersen Lab, The Scripps Research Institute
 * Arizona Department of Health Services
