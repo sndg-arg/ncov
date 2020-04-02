@@ -236,13 +236,12 @@ Nepaisant to, kad atsiranda vis daugiau su kelionėmis nesusijusių ligos plitim
 # [COVID-19 plitimas iš Irano](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 <!-- There is no right side text -->
 
-Šiuo metu neturime virusinių genomų sekų iš Irano.
-Tačiau turime pakankamai sekų tų atvejų, kurie yra susiję su kelionėmis į Iraną.
+Šiuo metu neturime virusinių genomų sekų iš Irano, tačiau turime pakankamai sekų tų atvejų, kurie yra susiję su kelionėmis į Iraną.
 <br><br>
-Dauguma sekų, susijusių su kelionių istorija į Iraną, formuoja atskirą telkinį, kas leidžia daryti prielaidą, jog epidemijai Irane turėjo įtakos vienas introdukcijos kelias.
+Dauguma sekų, susijusių su kelionėmis į Iraną, formuoja atskirą telkinį, kas leidžia daryti prielaidą, jog epidemijai Irane turėjo įtakos vienas introdukcijos kelias.
 <br><br>
 Pačioje medžio apačioje matome naujai gautą seką iš mėginio, priklausančio moteriai Pakistane, kuri pranešė apie kelionę į Iraną.
-Įdomu yra tai, kad šis atvejis nepatenka į aukščiau paminėtų mėginių telkinį, tačiau iš sergančiosios buvo paimtas daugiau mažiau tokiu pačiu metu.
+Įdomu yra tai, kad šis atvejis nepatenka į aukščiau paminėtų mėginių telkinį, nors mėginys iš sergančiosios buvo paimtas daugmaž tokiu pačiu metu.
 <br><br>
 Tai galima paaiškinti keletomis galimų hipotezių, tačiau ataskaitą atnaujinsime kai turėsime daugiau duomenų.
 <!-- There is no right side text -->
