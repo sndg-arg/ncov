@@ -105,7 +105,7 @@ Labai rekomenduojame išnagrinėti pateiktus šaltinius, ypač jeigu nesate susi
 
 [Our World in Data tinklapis](https://ourworldindata.org/coronavirus).
 
-[Paklauskite mokslininkų ir DUK](https://covid19.fas.org/l/en).
+[Ask a Scientist tinklapis ir DUK](https://covid19.fas.org/l/en).
 
 
 ```
