@@ -268,7 +268,7 @@ Kai kurios iš šių kelių dienų bėgyje paimtų mėginių sekų sudaro labai 
 <br><br>
 Tai pagrindžia vietinio perdavimo scenarijų, kuris vyksta anksčiausiai nuo kovo 15 d. (pirmojo su vietiniu perdavimu susijusio mėginio paėmimo data) arba galimai net anksčiau.
 <br><br>
-Puikus INRB darbas ties ankstyvų mėginių sekvenavimo taip pat leidžia stebėti vietinį perdavimą daugelyje kitų, mažiau ištirtų, vietų.
+Puikus INRB darbas sekvenuojant ankstyvius mėginius taip pat leidžia stebėti vietinį perdavimą daugelyje kitų, mažiau ištirtų vietų.
 <!-- There is no right side text -->
 
 
