@@ -191,11 +191,11 @@ Išanalizavus Vašingtono valstijos atvejus, matoma, kad yra bent du atskiri vie
 
 Panašūs ligos perdavimo modeliai taip pat stebimi ir kituose JAV regionuose.
 <br><br>
-Matome keletą mėginių iš Solano apskrities šiaurės Kalifornijoje, kurie buvo paimti skirtingomis datomis, bet yra labai giminingi vienas kitam.
+Matome keletą mėginių iš Solano apskrities šiaurės Kalifornijoje, kurie buvo paimti skirtingomis datomis, bet yra labai giminingi.
 <br><br>
 Kadangi duomenų kiekis iš Kalifornijos yra per daug ribotas tam, kad galėtume daryti tvirtas išvadas, preliminari analizė įrodo, kad vyko perdavimas Solano apskrities viduje.
 <br><br>
-Panaši tendencija buvo pastebėta medyje atvazidavus keletą mėginių, gautų iš Santa Klasors apskrities. 
+Panaši tendencija buvo pastebėta medyje atvazidavus keletą mėginių, gautų iš Santa Klaros apskrities. 
 <br><br>
 Atsižvelgiant į šių apskričių mėginių santykines pozicijas medyje, šių atvejų telkiniai galimai susiformavo dėl atskirų nepriklausomų introdukcijų.
 <!-- There is no right side text -->
