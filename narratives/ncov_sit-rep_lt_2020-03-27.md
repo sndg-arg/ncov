@@ -261,11 +261,11 @@ Tai galima paaiškinti keletomis galimų hipotezių, tačiau ataskaitą atnaujin
 <!-- This is left-side text 15-->
 # [Įrodytas vietinis plitimas Kinšasoj, Kongo Demokratinėje Respublikoje](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_country=Congo&f_region=Africa&label=clade:A2a&p=grid&r=country)
 
-Naujos sekos iš Kinšasos Kongo Demokratinėje Respublikoje įrodo, jog vyko kelios nepriklausomos introdukcijos.
+Naujos sekos iš Kinšasos, Kongo Demokratinėje Respublikoje, įrodo, jog vyko kelios nepriklausomos introdukcijos.
 <br><br>
-Kai kurios iš šių kelių dienų bėgyje paimtų mėginių sekų sudaro labai giminingų vietinių atvejų telkinį.
+Kai kurios iš šių, kelių dienų bėgyje paimtų mėginių, sekų sudaro labai giminingų vietinių atvejų telkinį.
 <br><br>
-Tai pagrindžia vietinio perdavimo scenarijų, kuris vyksta anksčiausiai nuo kovo 15 d. (pirmojo su vietiniu perdavimu susijusio mėginio paėmimo data) arba galimai net anksčiau.
+Tai pagrindžia vietinio perdavimo scenarijų, kuris vyksta anksčiausiai nuo kovo 15 d. (pirmojo su vietiniu perdavimu susijusio mėginio paėmimo data), arba galimai net anksčiau.
 <br><br>
 Puikus INRB darbas sekvenuojant ankstyvius mėginius taip pat leidžia stebėti vietinį perdavimą daugelyje kitų, mažiau ištirtų vietų.
 <!-- There is no right side text -->
@@ -306,7 +306,7 @@ Greičiausiai virusas cirkuliavo šiame regione bent jau nuo vasario mėn. pabai
 * Suteikite sąlygas nemokamamiems bei platiems tyrimams atlikti. 
 * Nustatykite griežtas socialinio atsiribojimo taisykles.  
 * Finansuokite pastangas nukreiptas į užsikrėtusių asmenų maršutų rekonstrukciją.  
-* Suteikite finansinę pagalbą labiausiai paveiktiems įsigaliojusių socialinio atsiribojimo.
+* Suteikite finansinę pagalbą labiausiai paveiktiems įsigaliojusio socialinio atsiribojimo.
 
 
 <!-- This is the right-side text -->
@@ -315,13 +315,13 @@ Greičiausiai virusas cirkuliavo šiame regione bent jau nuo vasario mėn. pabai
 ## Išvados
 ####  Ateinančiomis savaitėmis stebėsime ar epidemijos kontrolės bei švelninimo priemonės turės įtakos viruso plitimo tarp šalių stabdymui. 
 <br><br>
-#### Kadangi vis daugiau sekų tampa prienamos, toliau stebėsime padėtį Pietų Amerikoje ir ieškosime vietinio perdavimo požymių.
+#### Kadangi vis daugiau sekų tampa prienamos, toliau stebėsime padėtį Pietų Amerikoje ir ieškosime vietinio plitimo požymių.
 <br><br>
-#### JAV epidemijos modelis yra labai sudėtingas ties išorinio, tiek vietinio plitimo atvejais nutolusiuose šalies regionuose. Nustatėme kelias vietinio perdavimo grandines Vašingtone ir Kalifornijoje.
+#### JAV epidemijos modelis yra labai sudėtingas tiek išorinio, tiek vietinio plitimo atvejais nutolusiuose šalies regionuose. Nustatėme kelias vietinio plitimo grandines Vašingtone ir Kalifornijoje.
 <br><br>
-#### Radome vietinio perdavimo Naujajame Pietų Velse, Australijoje, įrodymų.
+#### Radome vietinio plitimo Naujajame Pietų Velse, Australijoje, įrodymų.
 <br><br>
-#### Randame vietinio perdavimo Kinshasoje, KDR, įrodymų. Kol kad neturime pakankamai duomenų tam, kad galėtume įvertinti, ar vyksta vidinis plitimas kituose Afrikos regionuose.
+#### Randame vietinio plitimo Kinshasoje, KDR, įrodymų. Kol kad neturime pakankamai duomenų tam, kad galėtume įvertinti, ar kituose Afrikos regionuose taip pat vyksta vidinis plitimas.
 ```
 
 <!-- ##### slide break ##### -->
@@ -336,7 +336,7 @@ Greičiausiai virusas cirkuliavo šiame regione bent jau nuo vasario mėn. pabai
 <!-- This is left-side text 20-->
 # [Padėka](https://nextstrain.org/ncov/2020-03-27?d=map&c=author)
 
-Norėtume padėkoti viso pasaulio mokslininkams, tiriantiems šį protrūkį ir ypatingai dirbantiems Kinijoje, nuostabų ir savalaikį darbą.
+Norėtume padėkoti viso pasaulio mokslininkams, tiriantiems šį protrūkį ir ypatingai dirbantiems Kinijoje, už nuostabų ir savalaikį darbą.
 Tokie tyrimai tampa įmanomi tik dėka spartaus dalinimosi genominiais duomenimis ir metaduomenimis.
 
 <br>
@@ -347,7 +347,7 @@ Taip pat dėkojame [GISAID](https://gisaid.org) už  šių duomenų įkėlimo ir
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-Dėkojame už pateiktus duomeneminis šioms laboratorijoms:
+Dėkojame už pateiktus duomenis šioms laboratorijoms:
 
 * Andersen Lab, The Scripps Research Institute
 * Arizona Department of Health Services
