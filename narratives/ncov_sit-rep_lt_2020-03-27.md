@@ -48,14 +48,14 @@ abstract: "Šioje ataskaitoje naudojami viešai pateikti genominiai duomenys ski
 ```auspiceMainDisplayMarkdown
 # Santrauka
 
-Išanalizavome 1495 viešai pateiktų COVID-19 genomus. Palyginus šiuos virusinius genomus mes galime apibrėžti COVID-19 plitimą tiek viso pasaulio mastu, tiek vietiškai. Šios savaitės naujienose pranešame:
+Išanalizavome 1495 viešai pateiktų COVID-19 genomus. Palyginus šiuos virusinius genomus mes galime apibūdinti tiek pasaulinį, tiek vietinį COVID-19 plitimą. Šios savaitės naujienose pranešame:
 
 **Europa**  
-* Toliau stebima mėginių įvairovė Europoje, kas leidžia daryti prielaidą, jog per pastarąsias 3-5 savaites virusas plito iš vienos valstybės į kitą. Epidemijos švelninimo priemonėms įsigaliojus, ateityje galime tikėtis daugiau atvejų telkinių šalių viduje.
+* Toliau stebimas virusų maišymasis Europoje, kas leidžia daryti prielaidą, jog per pastarąsias 3-5 savaites virusas plito iš vienos valstybės į kitą. Epidemijos švelninimo priemonėms įsigaliojus, ateityje galime tikėtis daugiau atvejų telkinių šalių viduje.
 
 **Šiaurės Amerika**   
 * JAV užkrato plitimo modelis yra sudėtingas: mėginiai, surinkti iš priešingų šalies kraštų, rodo artimą giminingumą.
-* Vašingtono valstijoje vyko bent dvi nepriklausomos introdukcijos (pirmoji tikėtina iš Kinijos, antroji - iš Europos), kurios sukūrė sąlygas dviejų atskirų perdavimo grandinių atsiradimui.
+* Į Vašingtono valstiją virusas atvyko bent du nepriklausomus kartus (pirmą kartą tikėtina iš Kinijos, antrą - iš Europos), kurios sukūrė sąlygas dviejų atskirų perdavimo grandinių atsiradimui.
 * Yra įrodymų, patvirtinančių viruso plitimą keletos valstijų viduje (ypatingai Kalifornijoje).
 
 **Centrinė ir Pietų Amerika**
@@ -116,7 +116,7 @@ Labai rekomenduojame išnagrinėti pateiktus šaltinius, ypač jeigu nesate susi
 # [Informacija apie mėginius](https://nextstrain.org/ncov/2020-03-27?c=country&r=country&d=map&p=grid&legend=closed)
 Šiuo metu turime sekas, gautas iš virusinių izoliatų, surinktų 48 šalyse šešiuose žemynuose. Tai yra neįtikėtinas pasiekimas – nusekvenuoti didelį nežinomą RNR virusą pandemijos įkarštyje yra itin sudėtinga ir pasiekiama tik dėka milžiniško viso pasaulio mokslininkų bei gydytojų darbo ir laiku pateiktų duomenų.
 <br><br>
-Nors šie duomenys leidžia mums charakterizuoti protrūkį bei stebėti jo plitimą realiu laiku, svarbu pabrėžti, kad mūsų išvados yra ribotos turimų duomenų.
+Nors šie duomenys leidžia mums apibūdinti protrūkį bei stebėti jo plitimą realiu laiku, svarbu pabrėžti, kad mūsų išvados yra ribojamos turimų duomenų.
 <br><br>
 Pavyzdžiui, žemėlapyje pavaizduotos tik keletas sekų iš pietų. Tai nėra todėl, kad šiose šalyse mažai COVID-19 atvejų arba todėl, kad šių atvejų svarba nėra didelė; verčiau, mes tiesiog neturime pakankamai duomenų iš šių sričių. Kiekvieno apskritimo dydis simbolizuoja prienamų duomenų kiekį, bet ne protrūkio dydį.
 <!-- There is NO right-side text -->
@@ -136,7 +136,7 @@ Pavyzdžiui, žemėlapyje pavaizduotos tik keletas sekų iš pietų. Tai nėra t
 <!-- This is left-side text 5-->
 # [Per pastarąsias 3–5 savaites virusas plito iš vienos valstybės į kitą](https://nextstrain.org/ncov/2020-03-27?c=country&d=tree,map&dmin=2020-03-06&f_region=Europe&p=full&r=country&legend=closed)
 
-Žemėlapyje bei filogenetiniame medyje yra pavaizduoti per pastarąsias 3 savaitęs visoje Europoje surinkti mėginiai, nuspalvinti pagal mėginio kilmės šalį. Šalių viduje stebimas tiek tam tikras giminingų mėginių susitelkimas, tiek ir gana didelė mėginių įvairovė. 
+Žemėlapyje bei filogenetiniame medyje yra pavaizduoti per pastarąsias 3 savaites visoje Europoje surinkti mėginiai, nuspalvinti pagal mėginio kilmės šalį. Šalių viduje stebimas tiek tam tikras giminingų mėginių susitelkimas, tiek ir gana nemažas mėginių maišymasis. 
 <br><br>
 Tai leidžia daryti prielaidą, jog per pastarąsias 3–5 savaites virusas ir toliau plito iš vienos valstybės į kitą.
 <br><br>
@@ -148,7 +148,7 @@ Toks geografinis susitelkimas šalių viduje ateityje gali sustiprėti įsigalio
 # [Naujos sekos iš Islandijos](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&d=tree,map&f_country=Iceland&legend=open)
 
 Gauta daug naujų sekų iš Islandijos.
-Spalvos atspindi kiekvieno atvejo maršruto istoriją (jeigu jis yra žinomas) – matoma, kad daugelis atvejų yra susiję su perdavimu pastarųjų kelionių metų. Šiuo metu analizuojame naujus duomenis, todėl išsamesnes išvadas pateiksime kitą savaitę.
+Spalvos atspindi kiekvieno atvejo maršruto istoriją (jeigu jis yra žinomas) – matoma, kad daugelis atvejų yra susiję su neseniai parvykusiais keliautojais. Šiuo metu analizuojame naujus duomenis, todėl išsamesnes išvadas pateiksime kitą savaitę.
 <!-- There is no right side text -->
 
 
@@ -169,8 +169,8 @@ Vien tik JAV, plitimo modeliai yra labai sudėtingi.
 Pavyzdžiui, palyginus naujausius mėginius iš Konektikuto (paryškintos šakos) su mėginiais iš Vašingtono valstijos (blankios šakos), buvo nustatytas tiek mėginių giminingumas, tiek jų tarpusavio susimaišymas. 
 Tai leidžia daryti prielaidą, kad pastaruoju metu vyko perdavimas tarp nutolusių šalies kraštų, tačiau šiuo metu neužtenka duomenų tvirtoms išvadoms.
 <br><br>
-Tai pabrėžia, jog perdavimo modeliai JAV yra daug sudėtingesni nei kad parodoma atvaizduojant šiuo metu turimus duomenis.
-Papildomi duomenys padėtų mums geriau suprasti ar tokia nacionalinė epidemija yra susijusi su labai skirtingais atskirų valstybių atsako bei reguliacijos veiksmais.
+Tai pabrėžia, jog perdavimas JAV yra daug sudėtingesnis nei rodoma naudojantis dabartiniais duomenimis.
+Papildomi duomenys padėtų mums geriau suprasti ar tokia nacionalinė epidemija yra susijusi su labai skirtingais kiekvienos valstijos atsakos veiksmais.
 <!-- There is no right side text -->
 
 
@@ -180,7 +180,7 @@ Papildomi duomenys padėtų mums geriau suprasti ar tokia nacionalinė epidemija
 
 Išanalizavus Vašingtono valstijos atvejus, matoma, kad yra bent du atskiri vietiniai protrūkių telkiniai.
 <br><br>
-Įdomu, jog abu telkiniai turi skirtingą kilmę: pirmasis yra labiausiai giminingas su mėginiais iš Kinijos, tuo tarpu antrasis yra labiausiai artimas mėginiams iš Europos. Yra galimybė, jog dėl nepakankamo mėginių kiekio iš tarpinių regionų abi šios introdukcijos nebuvo tiesioginės.
+Įdomu, jog abu telkiniai turi skirtingą kilmę: pirmasis yra labiausiai giminingas mėginiams iš Kinijos, tuo tarpu antrasis yra artimiausias mėginiams iš Europos. Yra galimybė, jog dėl nepakankamo mėginių kiekio iš tarpinių regionų abi šios introdukcijos nebuvo tiesioginės.
 <br><br>
 <!-- There is no right side text -->
 
@@ -189,13 +189,13 @@ Išanalizavus Vašingtono valstijos atvejus, matoma, kad yra bent du atskiri vie
 <!-- This is left-side text 9-->
 # [Tikėtina, jog Kalifornijoje yra dvi vietinės perdavimo grandinės](https://nextstrain.org/ncov/2020-03-27?c=location&f_country=USA&f_division=California&label=clade:A7&p=full&r=location&m=div&d=tree,map)
 
-Panašūs ligos perdavimo modeliai taip pat stebimi ir kituose JAV regionuose.
+Panašias tendencijas stebime ir kituose JAV regionuose.
 <br><br>
-Matome keletą mėginių iš Solano apskrities šiaurės Kalifornijoje, kurie buvo paimti skirtingomis datomis, bet yra labai giminingi.
+Matome keletą mėginių iš Solano apskrities šiaurės Kalifornijoje, kurie buvo paimti skirtingomis dienomis, bet yra labai giminingi.
 <br><br>
 Kadangi duomenų kiekis iš Kalifornijos yra per daug ribotas tam, kad galėtume daryti tvirtas išvadas, preliminari analizė įrodo, kad vyko perdavimas Solano apskrities viduje.
 <br><br>
-Panaši tendencija buvo pastebėta medyje atvazidavus keletą mėginių, gautų iš Santa Klaros apskrities. 
+Panaši tendencija stebima medyje iš keleto mėginių iš Santa Klaros apskrities. 
 <br><br>
 Atsižvelgiant į šių apskričių mėginių santykines pozicijas medyje, šių atvejų telkiniai galimai susiformavo dėl atskirų nepriklausomų introdukcijų.
 <!-- There is no right side text -->
@@ -216,7 +216,7 @@ Atsižvelgiant į šių apskričių mėginių santykines pozicijas medyje, šių
 Iš turimų duomenų dauguma sergančiųjų yra keliautojai.
 Kiekvienas atvejis yra nuspalvintas pagal žinomą maršruto istoriją.
 <br><br>
-Nepaisant to, kad atsiranda vis daugiau su kelionėmis nesusijusių ligos plitimo atvejų, šiuo metu neturime pakankamai įrodymų, pagrįsiančių tvirtas išvadas.
+Nepaisant to, kad atsiranda vis daugiau su kelionėmis nesusijusių ligos atvejų, šiuo metu neturime pakankamai įrodymų, galinčių pagrįsti tvirtas išvadas.
 Šiuo metu aktyviai sekvenuojame turimus mėginius, todėl išsamesnę ataskaitą pateiksime kai matysime daugiau aiškumų turimuose duomenyse.
 <!-- There is no right side text -->
 
@@ -236,9 +236,9 @@ Nepaisant to, kad atsiranda vis daugiau su kelionėmis nesusijusių ligos plitim
 # [COVID-19 plitimas iš Irano](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 <!-- There is no right side text -->
 
-Šiuo metu neturime virusinių genomų sekų iš Irano, tačiau turime pakankamai sekų tų atvejų, kurie yra susiję su kelionėmis į Iraną.
+Šiuo metu neturime virusinių genomų sekų iš Irano, tačiau turime pakankamai sekų iš keliautojų grįžusių iš Irano.
 <br><br>
-Dauguma sekų, susijusių su kelionėmis į Iraną, formuoja atskirą telkinį, kas leidžia daryti prielaidą, jog epidemijai Irane turėjo įtakos vienas introdukcijos kelias.
+Dauguma sekų, susijusių su kelionėmis į Iraną, formuoja atskirą telkinį, kas leidžia daryti prielaidą, jog didžioji Irano atvejų dalis Irane yra kilusi iš vien viruso atvykimo.
 <br><br>
 Pačioje medžio apačioje matome naujai gautą seką iš mėginio, priklausančio moteriai Pakistane, kuri pranešė apie kelionę į Iraną.
 Įdomu yra tai, kad šis atvejis nepatenka į aukščiau paminėtų mėginių telkinį, nors mėginys iš sergančiosios buvo paimtas daugmaž tokiu pačiu metu.
@@ -265,9 +265,9 @@ Naujos sekos iš Kinšasos, Kongo Demokratinėje Respublikoje, įrodo, jog vyko 
 <br><br>
 Kai kurios iš šių, kelių dienų bėgyje paimtų mėginių, sekų sudaro labai giminingų vietinių atvejų telkinį.
 <br><br>
-Tai pagrindžia vietinio perdavimo scenarijų, kuris vyksta anksčiausiai nuo kovo 15 d. (pirmojo su vietiniu perdavimu susijusio mėginio paėmimo data), arba galimai net anksčiau.
+Tai atitinka vietinio perdavimo scenarijų, kuris vyksta anksčiausiai nuo kovo 15 d. (pirmojo su vietiniu perdavimu susijusio mėginio paėmimo data), arba galimai net anksčiau.
 <br><br>
-Puikus INRB darbas sekvenuojant ankstyvius mėginius taip pat leidžia stebėti vietinį perdavimą daugelyje kitų, mažiau ištirtų vietų.
+Puikus INRB darbas sekvenuojant ankstyvius mėginius taip pat leidžia stebėti vietinį perdavimą, kuris kitaip liktų nepastebėtas daugelyje kitų, mažiau ištirtų vietų.
 <!-- There is no right side text -->
 
 
@@ -299,7 +299,7 @@ Greičiausiai virusas cirkuliavo šiame regione bent jau nuo vasario mėn. pabai
 * Siekite griežto socialinio atsiribojimo, ypač jeigu priklausote rizikos grupei.
 * Atsiminkite, kad netgi jeigu jūs nepriklausote rizikos grupei, jūsų aplinkiniai gali jai priklausyti; sekite išvardytas rekomendacijas tam, kad galėtumėte apsaugoti juos.
 * Plaukite rankas "tarsi ką tik pjaustėte jalapeno pipirus, o dabar turite pasikeisti akių lęšius".
-* Likite namuose, ypatingai jeigu sergate; turėkite maisto bei kt. atsargų jeigu privalėsite karantinuotis. 
+* Likite namuose, ypatingai jeigu sergate; turėkite maisto bei kt. atsargų jei reikės karantinuotis. 
 * Jeigu esate darbdavys, jei įmanoma, paskatinkite savo darbuotojus dirbti nuotoliniu būdu.
 
 #### ...kaip valdžios atstovas  
@@ -313,11 +313,11 @@ Greičiausiai virusas cirkuliavo šiame regione bent jau nuo vasario mėn. pabai
 
 ```auspiceMainDisplayMarkdown
 ## Išvados
-####  Ateinančiomis savaitėmis stebėsime ar epidemijos kontrolės bei švelninimo priemonės turės įtakos viruso plitimo tarp šalių stabdymui. 
+####  Ateinančiomis savaitėmis stebėsime ar epidemijos kontrolės bei švelninimo priemonės turės įtakos viruso plitimo tarp šalių stabdymui Europoje. 
 <br><br>
 #### Kadangi vis daugiau sekų tampa prienamos, toliau stebėsime padėtį Pietų Amerikoje ir ieškosime vietinio plitimo požymių.
 <br><br>
-#### JAV epidemijos modelis yra labai sudėtingas tiek išorinio, tiek vietinio plitimo atvejais nutolusiuose šalies regionuose. Nustatėme kelias vietinio plitimo grandines Vašingtone ir Kalifornijoje.
+#### JAV epidemijos plitimas yra labai sudėtingas tiek išorinio, tiek vietinio plitimo atvejais nutolusiuose šalies regionuose. Nustatėme kelias vietinio plitimo grandines Vašingtone ir Kalifornijoje.
 <br><br>
 #### Radome vietinio plitimo Naujajame Pietų Velse, Australijoje, įrodymų.
 <br><br>
